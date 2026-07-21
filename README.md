@@ -5,7 +5,9 @@ I design and build high‑load backend services.
 
 <div align="center" style="margin: 20px 0">
    <p align='center'><< 📫 To contact me >></p>
-       <img src="[https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/andrej-chodzynski)"/>
+   <a align='center' href="https://t.me/hodzand"> 
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
    <a align='center' href="https://t.me/hodzand">  
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
